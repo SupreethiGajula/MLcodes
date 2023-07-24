@@ -1,0 +1,7 @@
+age,sex,cp,exang,restecg,chol,heartdisease
+28,male,angina,yes,normal,220,no
+35,male,non-anginal,no,normal,191,no
+46,female,non-anginal,no,normal,233,no
+52,male,atypical,yes,normal,245,yes
+43,male,angina,no,abnormal,211,no
+57,female,atypical,yes,abnormal,207,yes
